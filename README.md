@@ -3,6 +3,17 @@
 </div>
 <br>
 
+## 목차
+1. [개발 환경](#1.-개발-환경)
+2. [아키텍처 구조](#아키텍처-구조)
+3. [역할 분담](#역할-분담)
+4. [개발 기간 및 작업 관리](#개발-기간-및-작업-관리)
+5. [프로젝트 사용 모델](#프로젝트-사용-모델)
+6. [시연 과정](#시연-과정)
+7. [시연 영상](#시연-영상)
+8. [개선 목표](#개선-목표)
+9. [프로젝트 후기](#프로젝트-후기)
+
 ## 프로젝트 소개
 
 - Cartoon TTS는 만화/웹툰 이미지의 시각 정보를 청각 정보로 변환하는 서비스입니다.
@@ -15,11 +26,6 @@
 |**1.웹 페이지 접속**|**2.Emotion TTS 변환할 이미지 업로드**|**3.텍스트를 Emotional Speech로 변환**|
 | :---: | :---: | :---: |
 | <img width="327" height="auto" alt="그림1" src="https://github.com/AI-LeGo/README/assets/108510929/ebbb6250-c354-451f-9b4c-3cec57cee1aa"> | <img width="327" height="auto" alt="22" src="https://github.com/AI-LeGo/README/assets/108510929/991c5b77-0d62-4280-b695-059f7b668825"> | <img width="327" height="auto" alt="3" src="https://github.com/AI-LeGo/README/assets/108510929/703d8aa1-299d-4b07-9b0b-128ab3657c02"> |
-
-
-
-
-
 
 ## 팀원 구성
 
@@ -48,44 +54,15 @@
 <br>
 
 ## 3. 역할 분담
-   
-### 김규리
 
-- **Modeling**
-    - Object/Emotion Detection
-    - Prompt Engineering
-<br>
+| 이름    | 분야                   | 주요 업무                             |
+|---------|------------------------|---------------------------------------|
+| 김규리 | Modeling               | Object/Emotion Detection, Prompt Engineering |
+| 김나훈 | Modeling/MLOps         | Emotional TTS, 서비스 파이프라인 구축        |
+| 김현우 | Front/Back-end          | 프론트/백엔드 시스템 설계, 서비스 파이프라인 구축 |
+| 심준석 | Modeling               | Prompt Engineering, Image Captioning  |
+| 이하준 | Modeling/Server         | Image Captioning, 데이터 수집 및 처리   |
 
-### 김나훈
-
-- **Modeling/MLOps**
-    - Emotional TTS
-    - 서비스 파이프라인 구축
-<br>
-
-### 김현우
-
-- **Front/Back-end**
-    - 프론트/백엔드 시스템 설계
-    - 서비스 파이프라인 구축
-    
-<br>
-
-### 심준석
-
-- **Modeling**
-    - Prompt Engineering
-    - Image Captioning
-    
-<br>
-
-### 이하준
-
-- **Modeling/Server**
-    - Image Captioning
-    - 데이터 수집 및 처리
-   
-<br>
 
 ## 4. 개발 기간 및 작업 관리
 
@@ -112,7 +89,10 @@
 <br>
 
 ## 8. 개선 목표
-
+   - 한국어 Emotional-TTS 구현
+   - 웹 페이지 기능 추가
 <br>
 
 ## 9. 프로젝트 후기
+한정된 시간으로 웹 페이지에서 성우의 선택이나 발화 묘사 수준의 조절 등을 구현하지 못해 아쉬웠습니다. 또한, 한국어 감정 발화 데이터셋 및 한국어 Emotional-TTS 모델의 부재로 인해 영어 기반의 서비스를 개발하게 되었습니다. 따라서 향후 한국어 발화 데이터셋을 구축하고 이를 기반으로 한 학습이 진행된다면 국내 상용화 서비스를 제공할 수 있을 것으로 기대하고 있습니다.
+
