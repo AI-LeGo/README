@@ -85,6 +85,7 @@
 
 ## 6. 시연 결과
 <img width="361" alt="image" src="https://github.com/AI-LeGo/README/assets/108510929/42e78607-3ba9-4705-8ec8-6a2f42a93ad2">
+<img width="363" alt="image" src="https://github.com/AI-LeGo/README/assets/108510929/ad3b3932-e91c-4dc5-a7e9-d773070c422f">
 
 <br>
 
