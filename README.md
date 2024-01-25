@@ -53,7 +53,7 @@
 - Front : HTML, Bootstrap
 - Back-end : Fastapi
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
-- 협업 툴 : [Notion](https://www.notion.so/prgrms/1-362c4eb4c5b040a0aee8d683ac161ea7)
+- 협업 툴 : Notion
 - 서비스 배포 환경 : AWS
 <br>
 
