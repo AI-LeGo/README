@@ -1,4 +1,4 @@
-![image](https://github.com/AI-LeGo/README/assets/108510929/20deca9d-e4e3-495e-b1b7-9b4cf1332ca9)<div align="center">
+<div align="center">
 <img width="100%" alt="image" src="https://github.com/AI-LeGo/README/assets/108510929/3095e676-8a5a-44ea-a07c-4268dbd58a0a">
 </div>
 <br>
