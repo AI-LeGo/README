@@ -32,6 +32,7 @@
 <br>
 
 ## 3. 프로젝트 구조
+![아키텍쳐1](https://github.com/AI-LeGo/README/assets/108510929/873c5f99-77db-4ae1-90a5-07c389560102)
 
 <br>
 
