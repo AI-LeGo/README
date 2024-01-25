@@ -12,7 +12,7 @@
 
 ## 프로젝트 목표
 
-|**1. 웹 페이지 접속**|**2. Emotion TTS 변환할 이미지 업로드**|**3. 텍스트를 Emotional Speech로 변환**|
+|**1.웹 페이지 접속**|**2.Emotion TTS로 변환할 이미지 업로드**|**3.텍스트를 Emotional Speech로 변환**|
 | :---: | :---: | :---: |
 | <img width="327" height="auto" alt="그림1" src="https://github.com/AI-LeGo/README/assets/108510929/ebbb6250-c354-451f-9b4c-3cec57cee1aa"> | <img width="327" height="auto" alt="22" src="https://github.com/AI-LeGo/README/assets/108510929/991c5b77-0d62-4280-b695-059f7b668825"> | <img width="327" height="auto" alt="3" src="https://github.com/AI-LeGo/README/assets/108510929/703d8aa1-299d-4b07-9b0b-128ab3657c02"> |
 
