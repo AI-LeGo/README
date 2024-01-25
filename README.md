@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/AI-LeGo/README/assets/108510929/20deca9d-e4e3-495e-b1b7-9b4cf1332ca9)<div align="center">
 <img width="100%" alt="image" src="https://github.com/AI-LeGo/README/assets/108510929/3095e676-8a5a-44ea-a07c-4268dbd58a0a">
 </div>
 <br>
@@ -48,11 +48,11 @@
 <br>
 
 ## 개발 환경
-- Deeplearning Model : StyleTTS2, GPT-4 VISION
+- Deeplearning Model : [StyleTTS2](https://github.com/yl4579/StyleTTS2), [GPT-4 Vision](https://platform.openai.com/docs/guides/vision)
 - Front : HTML, Bootstrap
 - Back-end : Fastapi
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
-- 협업 툴 : Notion
+- 협업 툴 : [Notion](https://www.notion.so/prgrms/1-362c4eb4c5b040a0aee8d683ac161ea7)
 - 서비스 배포 환경 : AWS
 <br>
 
