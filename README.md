@@ -13,7 +13,7 @@
 7. [개발 기간 및 작업 관리](#개발-기간-및-작업-관리)
 8. [프로젝트 사용 모델](#프로젝트-사용-모델)
 9. [시연 과정](#시연-과정)
-10. [시연 영상](#시연-영상)
+10. [발표 자료](#발표-자료)
 11. [개선 목표](#개선-목표)
 12. [프로젝트 후기](#프로젝트-후기)
 <br>
@@ -34,6 +34,7 @@
 |**1.웹 페이지 접속**|**2.Emotion TTS 변환할 이미지 업로드**|**3.텍스트를 Emotional Speech로 변환**|
 | :---: | :---: | :---: |
 | <img width="327" height="auto" alt="그림1" src="https://github.com/AI-LeGo/README/assets/108510929/ebbb6250-c354-451f-9b4c-3cec57cee1aa"> | <img width="327" height="auto" alt="22" src="https://github.com/AI-LeGo/README/assets/108510929/991c5b77-0d62-4280-b695-059f7b668825"> | <img width="327" height="auto" alt="3" src="https://github.com/AI-LeGo/README/assets/108510929/703d8aa1-299d-4b07-9b0b-128ab3657c02"> |
+<br>
 
 ## 팀원 구성
 
@@ -71,6 +72,7 @@
 | 심준석 | Modeling               | Prompt Engineering, Image Captioning  |
 | 이하준 | Modeling/Server         | Image Captioning, 데이터 수집 및 처리   |
 
+<br>
 
 ## 개발 기간 및 작업 관리
 
@@ -83,6 +85,8 @@
 
 - [Image Captiong & Prompt Enginerring](https://github.com/AI-LeGo/Service-Backend/tree/main/tools)
 - [Emotional-TTS](https://github.com/AI-LeGo/Emotional-TTS)
+<br>
+
   
 ## 시연 과정
 |1. 웹 페이지 접속|2. Emotion TTS로 변환할 이미지 업로드|
@@ -90,9 +94,9 @@
 |![이미지1](https://github.com/AI-LeGo/README/assets/108510929/42e78607-3ba9-4705-8ec8-6a2f42a93ad2)|![이미지2](https://github.com/AI-LeGo/README/assets/108510929/ad3b3932-e91c-4dc5-a7e9-d773070c422f)|
 |3. 알림창이 뜨며 음원 생성 완료|4. 음원 스크립트 전문과 오디오 파일 다운로드|
 |![설명1](https://github.com/AI-LeGo/README/assets/108510929/111bc2e3-d9c3-4c4e-a00e-c2e974f7da5e)|![설명2](https://github.com/AI-LeGo/README/assets/108510929/82dcb284-e974-4959-b30f-984f6c981ac1)|
+<br>
 
-
-## 시연 영상
+## 발표 자료
 
 <br>
 
