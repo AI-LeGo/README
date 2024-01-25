@@ -25,7 +25,7 @@
 
 <div align="center">
 
-| **김규리** |**김나훈**| **김현우** | **심준석** |**이하준** | 
+| **김규리** |**김나훈**| **김현우** | **심준석** |**이하준** | 
 | :------: | :------:| :------: | :------: |:------: |  
 | [<img src="https://avatars.githubusercontent.com/u/97076152?v=4" height=150 width=150> <br/> @GyuRiiii](https://github.com/GyuRiiii) | [<img src="https://avatars.githubusercontent.com/u/68880867?v=4" height=150 width=150> <br/> @hunnxx](https://github.com/hunnxx) | [<img src="https://avatars.githubusercontent.com/u/96505696?v=4" height=150 width=150> <br/> @NK590](https://github.com/NK590) | [<img src="https://avatars.githubusercontent.com/u/120085361?s=70&v=4" height=150 width=150> <br/> @LukeJS0326](https://github.com/LukeJS0326) | [<img src="https://avatars.githubusercontent.com/u/108510929?s=96&v=4" height=150 width=150> <br/> @ha789ha](https://github.com/ha789ha) |
 
