@@ -87,10 +87,10 @@
 <br>
 
 ## 6. 프로젝트 사용 모델
+
 - [Image Captiong & Prompt Enginerring]("https://github.com/AI-LeGo/Service-Backend/tree/main/tools")
 - [Emotional-TTS]("https://github.com/AI-LeGo/Emotional-TTS")
-<br>
-
+  
 ## 7. 시연 과정
 |1. 웹 페이지 접속|2. Emotion TTS로 변환할 이미지 업로드|
 |:---:|:---:|
